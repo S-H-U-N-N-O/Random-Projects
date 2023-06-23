@@ -47,3 +47,4 @@ l5.place(x=155, y=250)
 
 root.mainloop()
 
+#In case you want the database. Link:- http://localhost/phpmyadmin/index.php?route=/sql&db=new+form&table=1st&pos=0
